@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="DoraFlashView">
+        <attr name="dora_rotateAngle" format="float" />
+        <attr name="dora_deltaX" format="dimension" />
+        <attr name="dora_gradientSize" format="dimension" />
+        <attr name="dora_highlightColor" format="color"/>
+        <attr name="dora_type">
+            <enum name="normal" value="0" />
+            <enum name="blur" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>
