@@ -12,7 +12,7 @@
 
 ### 照片
 
-![avatar](https://github.com/dora4/dora_flash_view/blob/main/art/dora_flash_view.png)
+![avatar](https://github.com/dora4/dora_flash_view/blob/main/art/dora_flash_view.jpg)
 
 ### 动图
 
